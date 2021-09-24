@@ -5,5 +5,5 @@ COPY package*.json ./
 RUN npm install --production
 
 COPY . /src
-EXPOSE 8080
+EXPOSE 3000
 CMD [ "npm", "start" ]

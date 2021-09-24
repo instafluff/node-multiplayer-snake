@@ -16,4 +16,4 @@ spec:
         - name: test-app
           image: msgsdeployregistry.azurecr.io/myimage:latest
           ports:
-          - containerPort: 8080
+          - containerPort: 3000

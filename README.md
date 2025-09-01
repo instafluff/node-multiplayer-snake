@@ -147,3 +147,6 @@ Open your web browser to `localhost:3000`
     - diagonal movement
     - defined win conditions
     - pictionary
+
+
+<!-- Security scan triggered at 2025-09-02 01:57:31 -->
